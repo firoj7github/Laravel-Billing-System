@@ -1,0 +1,40 @@
+.amount span {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.pastBills,
+.downl {
+    font-size: 20px;
+    text-decoration: underline;
+    margin-top: 50px;
+}
+
+.panel-heading {
+    text-align: center;
+    font-size: 30px;
+}
+
+.current {
+    font-size: 20px;
+}
+
+.current span {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+html,
+body {
+    background-color: #000;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    height: 100vh;
+    margin: 0;
+}
+
+.nav>li>a:focus,
+.nav>li>a:hover {
+    text-decoration: none;
+    background-color: #7070706b;
+}
